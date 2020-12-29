@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9507dfe4-4fc1-4f63-bfde-58f01d9a9c87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pomogo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/appicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/build/pomogo.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/package.json.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/src/App.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/src/components/HelloWorld.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/src/components/ModalContent.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/src/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/frontend/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/pomogo-res.syso" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/pomogo.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/pomogo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/pomogo.rc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomogo/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
