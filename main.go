@@ -16,7 +16,7 @@ func main() {
 	app := wails.CreateApp(&wails.AppConfig{
 		Width:  1024,
 		Height: 768,
-		Title:  "Pomogo",
+		Title:  "PomoGoHard",
 		JS:     js,
 		CSS:    css,
 		Colour: "#131313",

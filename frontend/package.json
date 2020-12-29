@@ -1,5 +1,5 @@
 {
-  "name": "pomogo",
+  "name": "pomogohard",
   "author": "Dan<dan@ukemi.ninja>",
   "scripts": {
     "build": "rollup -c",
