@@ -1,0 +1,25 @@
+{
+ "name": "Pomogo",
+ "description": "Enter your project description",
+ "author": {
+  "name": "Dan",
+  "email": "dan@ukemi.ninja"
+ },
+ "version": "0.1.0",
+ "binaryname": "pomogo",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run dev"
+ },
+ "tags": "",
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": "",
+ "LdFlags": "",
+ "GoPath": "",
+ "UseFirebug": false
+}
