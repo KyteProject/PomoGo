@@ -1,12 +1,12 @@
 [comment]: <> (![logo]&#40;./.github/logo.png&#41;)
 
-# PomoGoHard
+# PomoGo
 
 > Pomodoro timer app with tracking and statistics.
 
 ## Overview
 
-PomoGoHard is a cross platform Pomodoro timer written in Go and Svelte. The idea is to build something simple and lightweight. Possibly containing data tracking, statistics and integration (e.g Beeminder)
+PomoGo is a cross platform Pomodoro timer written in Go and Svelte. The idea is to build something simple and lightweight. Possibly containing data tracking, statistics and integration (e.g Beeminder)
 
 ## Features
 
@@ -22,7 +22,7 @@ PomoGoHard is a cross platform Pomodoro timer written in Go and Svelte. The idea
 
 Download the latest version from the [releases page](https://github.com/KyteProject/pomogohard/releases).
 
-PomoGoHard is available for Windows, macOS, and Linux.
+PomoGo is available for Windows, macOS, and Linux.
 
 ## Roadmap
  * Stuff
@@ -30,7 +30,7 @@ PomoGoHard is available for Windows, macOS, and Linux.
 
 ## Development
 
-PomoGoHard is built using [Wails](https://wails.app/) and uses Svelte on the frontend and Go on the backend.
+PomoGo is built using [Wails](https://wails.app/) and uses Svelte on the frontend and Go on the backend.
 
 Take the following steps to develop locally:
 
