@@ -1,13 +1,15 @@
-import App from './App.svelte';
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+import Vue from 'vue';
+import App from './App.vue';
+
+Vue.config.productionTip = false;
+Vue.config.devtools = true;
 
 import * as Wails from '@wailsapp/runtime';
 
-let app;
-
 Wails.Init(() => {
-	app = new App({
-		target: document.body,
-	});
-}); 
-
-export default app;
+	new Vue({
+		render: h => h(App)
+	}).$mount('#app');
+});

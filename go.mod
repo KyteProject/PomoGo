@@ -1,4 +1,4 @@
-module pomogohard
+module pomogo
 
 go 1.15
 

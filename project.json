@@ -1,18 +1,18 @@
 {
- "name": "PomoGoHard",
+ "name": "PomoGo",
  "description": "Enter your project description",
  "author": {
   "name": "Dan",
   "email": "dan@ukemi.ninja"
  },
  "version": "0.1.0",
- "binaryname": "pomogohard",
+ "binaryname": "pomogo",
  "frontend": {
   "dir": "frontend",
   "install": "npm install",
   "build": "npm run build",
   "bridge": "src",
-  "serve": "npm run dev"
+  "serve": "npm run serve"
  },
  "tags": "",
  "WailsVersion": "",
@@ -21,5 +21,5 @@
  "Architecture": "",
  "LdFlags": "",
  "GoPath": "",
- "UseFirebug": true
+ "UseFirebug": false
 }
