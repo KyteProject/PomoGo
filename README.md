@@ -1,20 +1,16 @@
-[comment]: <> (![logo]&#40;./.github/logo.png&#41;)
-
 # PomoGo
 
 > Pomodoro timer app with tracking and statistics.
 
 ## Overview
 
-PomoGo is a cross platform Pomodoro timer written in Go. The idea is to build something simple and lightweight thatmeets the [Open Pomodoro spec](https://github.com/open-pomodoro/open-pomodoro-format). Possibly containing data tracking, statistics and integration (e.g Beeminder) in the future.
+PomoGo is a cross platform Pomodoro timer written in Go. The idea is to build something simple and lightweight thatmeets
+the [Open Pomodoro spec](https://github.com/open-pomodoro/open-pomodoro-format). Possibly containing data tracking,
+statistics and integration (e.g Beeminder) in the future.
 
 ## Features
 
 - Timer
-
-[comment]: <> (![Screenshot]&#40;&#41;)
-
-[comment]: <> (![Screenshot]&#40;&#41;)
 
 ## Installation
 
@@ -25,8 +21,9 @@ Download the latest version from the [releases page](https://github.com/KyteProj
 PomoGo is available for Windows, macOS, and Linux.
 
 ## Roadmap
- * Stuff
- * Stuff
+
+* Stuff
+* Stuff
 
 ## Development
 
@@ -40,9 +37,10 @@ Take the following steps to develop locally:
 
 ## License
 
-MIT &copy; 2020 [Daniel Smith] (https://github.com/KyteProject)
+MIT &copy; 2020 [Daniel Smith](https://github.com/KyteProject)
 
 ## Credits
 
- * [Open Pomodoro spec](https://github.com/open-pomodoro/open-pomodoro-format)
- * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+* [Open Pomodoro spec](https://github.com/open-pomodoro/open-pomodoro-format)
+* [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+* [Wails](https://wails.app/)
