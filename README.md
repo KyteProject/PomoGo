@@ -6,7 +6,7 @@
 
 ## Overview
 
-PomoGo is a cross platform Pomodoro timer written in Go and Svelte. The idea is to build something simple and lightweight. Possibly containing data tracking, statistics and integration (e.g Beeminder)
+PomoGo is a cross platform Pomodoro timer written in Go. The idea is to build something simple and lightweight thatmeets the [Open Pomodoro spec](https://github.com/open-pomodoro/open-pomodoro-format). Possibly containing data tracking, statistics and integration (e.g Beeminder) in the future.
 
 ## Features
 
@@ -41,3 +41,8 @@ Take the following steps to develop locally:
 ## License
 
 MIT &copy; 2020 [Daniel Smith] (https://github.com/KyteProject)
+
+## Credits
+
+ * [Open Pomodoro spec](https://github.com/open-pomodoro/open-pomodoro-format)
+ * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
