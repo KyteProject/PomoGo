@@ -207,6 +207,8 @@ github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69
 github.com/syossan27/tebata v0.0.0-20180602121909-b283fe4bc5ba h1:2DHfQOxcpWdGf5q5IzCUFPNvRX9Icf+09RvQK2VnJq0=
 github.com/syossan27/tebata v0.0.0-20180602121909-b283fe4bc5ba/go.mod h1:iLnlXG2Pakcii2CU0cbY07DRCSvpWNa7nFxtevhOChk=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
+github.com/vrischmann/userdir v0.0.0-20151206171402-20f291cebd68 h1:Ah2/69Z24rwD6OByyOdpJDmttftz0FTF8Q4QZ/SF1E4=
+github.com/vrischmann/userdir v0.0.0-20151206171402-20f291cebd68/go.mod h1:EqKqAeKddSL9XSGnfXd/7iLncccKhR16HBKVva7ENw8=
 github.com/wailsapp/wails v1.10.1 h1:WGM5gms/fVI+Pql484sv5A2eDj13fYUQFIejmoIEN7k=
 github.com/wailsapp/wails v1.10.1/go.mod h1:XFZunea+USOCMMgBlz0A0JHLL3oWrRhnOl4baZlRpxo=
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
