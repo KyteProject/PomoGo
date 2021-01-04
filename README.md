@@ -22,7 +22,7 @@ PomoGo is available for Windows, macOS, and Linux.
 
 ## Roadmap
 
-* Stuff
+* Make it work
 * Stuff
 
 ## Development
