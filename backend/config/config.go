@@ -44,5 +44,7 @@ func (c *Config) WailsInit(r *wails.Runtime) error {
 // NewConfig returns a new instance of Config.
 func NewConfig() *Config {
 	c := &Config{}
+	c.LocalStore = localstore.NewLocalStore()
+
 	return c
 }
