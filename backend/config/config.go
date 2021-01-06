@@ -6,24 +6,6 @@ import (
 	"time"
 )
 
-//App is the application specific config
-type App struct {
-	Width         int    `json:"appWidth"`
-	Height        int    `json:"appHeight"`
-	Title         string `json:"appTitle"`
-	Colour        string `json:"appColour"`
-	Notifications bool   `json:"appNotifications"`
-	Sounds        bool   `json:"appSounds"`
-}
-
-// Pomodoro is the config for the pomodoro timer functionality
-type Pomodoro struct {
-	WorkTime       time.Duration `json:"workTime"`
-	ShortBreakTime time.Duration `json:"shortBreakTime"`
-	LongBreakTime  time.Duration `json:"longBreakTime"`
-	WorkRounds     int           `json:"workRounds"`
-}
-
 //Config is the collection of app settings
 type Config struct {
 	App        *App

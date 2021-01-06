@@ -15,13 +15,19 @@ func main() {
 	css := mewn.String("./frontend/dist/app.css")
 
 	app := wails.CreateApp(&wails.AppConfig{
-		Width:  1024,
-		Height: 1024,
-		Title:  "PomoGo",
-		JS:     js,
-		CSS:    css,
-		Colour: "#131313",
+		Width:     1024,
+		Height:    1024,
+		Resizable: true,
+		Title:     "PomoGo",
+		JS:        js,
+		CSS:       css,
+		Colour:    "#131313",
 	})
+
 	app.Bind(basic)
-	app.Run()
+
+	err := app.Run()
+	if err != nil {
+		panic(err)
+	}
 }
