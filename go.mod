@@ -3,6 +3,7 @@ module pomogo
 go 1.15
 
 require (
+	github.com/jinzhu/gorm v1.9.16 // indirect
 	github.com/leaanthony/mewn v0.10.7
 	github.com/spf13/viper v1.7.1
 	github.com/vrischmann/userdir v0.0.0-20151206171402-20f291cebd68
