@@ -14,6 +14,7 @@ statistics and integration (e.g Beeminder) in the future.
 
 ## Installation
 
+
 ### Downloads
 
 Download the latest version from the [releases page](https://github.com/KyteProject/pomogohard/releases).
