@@ -1,6 +1,6 @@
 # PomoGo
 
-> Pomodoro timer app with tracking and statistics.
+> Pomodoro timer app with tracking and statistics. - WIP
 
 ## Overview
 
